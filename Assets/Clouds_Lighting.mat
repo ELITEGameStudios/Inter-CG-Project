@@ -55,6 +55,6 @@ Material:
     m_Colors:
     - _FogColor: {r: 0, g: 0, b: 0, a: 1}
     - _LightEffectColor: {r: 0.65580136, g: 0.65580136, b: 0.65580136, a: 1}
-    - _ShadowmapCamPos: {r: 455.4, g: 235.5, b: 631.4, a: 0}
+    - _ShadowmapCamPos: {r: 0, g: 235.5, b: 631.4, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

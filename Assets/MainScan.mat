@@ -39,13 +39,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _Float: 1
-    - _MaxScreenOpacity: 0.65
+    - _MaxScreenOpacity: 0.143
     - _Power: 300
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ScanHDRValue: 1.93
     m_Colors:
-    - _baseCol: {r: 0, g: 0.7875509, b: 1, a: 0}
+    - _baseCol: {r: 0, g: 0.9160085, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &3056038223426652086
